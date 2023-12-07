@@ -12,7 +12,6 @@ function cube(number) {
 }
 
 cube(3);
-cube(4);19
 cube(5);
 
 
